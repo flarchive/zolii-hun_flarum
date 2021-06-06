@@ -1,0 +1,40 @@
+{
+	"name": "zolii/hun_flarum",
+	"type": "flarum-extension",
+	"description": "Hungarian language pack for Flarum.",
+	"homepage": "https://github.com/zoliidev/hun_flarum",
+	"keywords": [
+		"locale",
+		"flarum",
+		"hu-locale"
+	],
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Zolii",
+			"homepage": "https://hugaming.hu/"
+		}
+	],
+	"require": {
+		"flarum/core": "^1.0"
+	},
+	"minimum-stability": "dev",
+	"prefer-stable": true,
+	"extra": {
+		"flarum-extension": {
+			"title": "Magyar fordítás",
+			"icon": {
+				"image": "icon.svg",
+				"backgroundSize": "cover",
+				"backgroundPosition": "center"
+			}
+		},
+		"flarum-locale": {
+			"code": "hu",
+			"title": "Magyar"
+		},
+		"flagrow": {
+			"discuss": ""
+		}
+	}
+}
