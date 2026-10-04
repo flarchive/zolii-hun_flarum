@@ -2,13 +2,19 @@
 
 > **Read-only archive of released versions of zolii/hun_flarum.** Not for installation: use [Packagist](https://packagist.org/packages/zolii/hun_flarum) or the [upstream repository](https://github.com/zoliidev/hun_flarum).
 
-**0** versions archived · Latest: [`1.104`](https://github.com/flarchive/zolii-hun_flarum/tree/archive/v1.104) · License: `MIT` · Flarum: `^1.0`
+**7** versions archived · Latest: [`1.104`](https://github.com/flarchive/zolii-hun_flarum/tree/archive/v1.104) · License: `MIT` · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1` | 2021-06-06 | `^1.0` | [Browse](https://github.com/flarchive/zolii-hun_flarum/tree/archive/v0.1) |
+| `1.0` | 2021-06-06 | `^1.0` | [Browse](https://github.com/flarchive/zolii-hun_flarum/tree/archive/v1.0) |
+| `1.1` | 2021-06-06 | `^1.0` | [Browse](https://github.com/flarchive/zolii-hun_flarum/tree/archive/v1.1) |
+| `1.1.01` | 2021-06-06 | `^1.0` | [Browse](https://github.com/flarchive/zolii-hun_flarum/tree/archive/v1.1.01) |
+| `1.102` | 2021-06-06 | `^1.0` | [Browse](https://github.com/flarchive/zolii-hun_flarum/tree/archive/v1.102) |
+| `1.103` | 2021-06-06 | `^1.0` | [Browse](https://github.com/flarchive/zolii-hun_flarum/tree/archive/v1.103) |
+| `1.104` | 2021-06-06 | `^1.0` | [Browse](https://github.com/flarchive/zolii-hun_flarum/tree/archive/v1.104) |
 
 Catalog entry: [packages/zolii-hun_flarum.json](https://github.com/flarchive/archive-index/blob/main/packages/zolii-hun_flarum.json)
 
